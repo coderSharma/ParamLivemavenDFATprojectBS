@@ -1,0 +1,16 @@
+File Created on 03Mar2015
+
+Total URLs Crawled: 119
+No Lorem Ipsum found on the site
+https://www.asis.gov.au/About-Us/Speech.html contains DFAT
+https://www.asis.gov.au/About-Us/Contact-us.html contains DFAT
+https://www.asis.gov.au/About-Us/Message-from-DG.html contains DFAT
+https://www.asis.gov.au/About-Us/FAQ/General-FAQ.html contains DFAT
+https://www.asis.gov.au/About-Us/Speech.html#content contains DFAT
+https://www.asis.gov.au/About-Us/Contact-us.html#content contains DFAT
+https://www.asis.gov.au/About-Us/Message-from-DG.html#content contains DFAT
+https://www.asis.gov.au/About-Us/FAQ/General-FAQ.html#content contains DFAT
+No "page not found" errors on the site
+No blank page titles on the site
+
+===== Run Completed=====

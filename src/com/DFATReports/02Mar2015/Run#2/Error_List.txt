@@ -1,0 +1,51 @@
+File Created on 02Mar2015
+
+
+Login Section
+
+Error Text 1:Please enter a valid username.
+Error Text 2:Please enter a valid password.
+Error Text 3:Please enter a valid security key.
+***********************************
+
+
+Personal Section
+
+Error Text 1:Please choose a valid image to upload
+Error Text 2:Please choose a valid CV to upload
+Error Text 3:Please choose a title.
+Error Text 4:Please enter a valid name.
+Error Text 5:Please enter a surname.
+Error Text 6:Please enter your Australian Passport Number.
+Error Text 7:Please enter a valid drivers license.
+Error Text 8:Please select a type of license.
+Error Text 9:Please select which gender.
+Error Text 10:Please select your DOB.
+Error Text 11:Please enter your country of birth.
+Error Text 12:Please enter your state of birth.
+Error Text 13:Please enter your city of birth.
+Error Text 14:Please enter a valid home phone.
+Error Text 15:Please enter a valid work phone.
+Error Text 16:Please enter a valid mobile phone.
+Error Text 17:Please enter a valid email address.
+Error Text 18:Please enter a valid street address.
+Error Text 19:Please enter a valid postcode.
+Error Text 20:Please enter a valid state.
+Error Text 21:Please enter a valid country.
+Error Text 22:Please select your nearest capital city.
+Error Text 23:Please enter a valid street address.
+Error Text 24:Please enter a valid postcode.
+Error Text 25:Please enter a valid state.
+Error Text 26:Please enter a valid country.
+Error Text 27:Please select if you have an Australian Citizenship.
+Error Text 28:Please enter a numeric value (eg. 20).
+Error Text 29:Please enter a valid country.
+Error Text 30:Please enter a valid country.
+Error Text 31:Please enter your previous citizenship date.
+Error Text 32:Please enter your previous citizenship date.
+
+Expected 32 Errors and Found 32
+***********************************
+
+
+===== Run Completed=====

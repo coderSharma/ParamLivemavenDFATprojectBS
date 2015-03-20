@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="84.436" errors="1" skipped="0" tests="1" name="com.DFATTests.Firefox.FullSiteLoremIpsumTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre7\bin"/>
+    <property name="java.vm.version" value="24.60-b09"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="AU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\myWorkspace\LivemavenDFATproject"/>
+    <property name="java.runtime.version" value="1.7.0_60-b19"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre7\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\gsharma\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="classworlds.conf" value="D:\myWorkspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5452238718577087506.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jre7\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Extensis\Universal Type Client\;C:\Program Files\Java\jdk1.7.0_51\bin;D:\apache-maven-3.2.3\bin;D:\adt-bundle-windows-x86_64-20140702\sdk\tools;D:\adt-bundle-windows-x86_64-20140702\sdk\platform-tools;D:\ChromeDriver;C:\Users\gsharma\AppData\Local\Spoon\Cmd;C:\Program Files (x86)\Mozilla Firefox;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\gsharma"/>
+    <property name="user.timezone" value="Australia/Sydney"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="gsharma"/>
+    <property name="java.class.path" value="/D:/DROP/myDownloads/eclipse-jee-juno-SR2-win32-x86_64/eclipse/configuration/org.eclipse.osgi/bundles/818/1/.cp/jars/plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jre7"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_60"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre7\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\myWorkspace\LivemavenDFATproject\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="maven.bootclasspath" value="/D:/DROP/myDownloads/eclipse-jee-juno-SR2-win32-x86_64/eclipse/configuration/org.eclipse.osgi/bundles/818/1/.cp/jars/plexus-classworlds-2.4.jar"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase time="72.364" classname="com.DFATTests.Firefox.FullSiteLoremIpsumTest" name="A_DFAT_Crawler">
+    <error message="no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;2.34.0&apos;, revision: &apos;11cd0ef93615408e0b6b3bfa28defe125906461a&apos;, time: &apos;2013-08-06 11:43:14&apos;
+System info: os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.7.0_60&apos;
+Session ID: 3a49a9d81fa50148d4227f1ad1ef0645
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\gsharma\AppData\Local\Temp\scoped_dir2452_20940}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=40.0.2214.115, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;2.34.0&apos;, revision: &apos;11cd0ef93615408e0b6b3bfa28defe125906461a&apos;, time: &apos;2013-08-06 11:43:14&apos;
+System info: os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.7.0_60&apos;
+Session ID: 3a49a9d81fa50148d4227f1ad1ef0645
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\gsharma\AppData\Local\Temp\scoped_dir2452_20940}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=40.0.2214.115, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.getPageSource(RemoteWebDriver.java:414)
+	at com.DFATTests.Firefox.FullSiteLoremIpsumTest.A_DFAT_Crawler(FullSiteLoremIpsumTest.java:97)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.apache.maven.surefire.junit4.JUnit4TestSet.execute(JUnit4TestSet.java:53)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:123)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:104)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:164)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:110)
+	at org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:175)
+	at org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcessWhenForked(SurefireStarter.java:107)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:68)
+</error>
+    <system-out>Folder Created src/com/DFATReports/04Mar2015\Run#29\
+Setting up Chrome Browser
+Browsing URL #1 &amp; Extracted:24 URLS from :https://www.asis.gov.au/
+Current URL List Size: 25
+Browsing URL #2 &amp; Extracted:0 URLS from :https://www.asis.gov.au/#content
+Current URL List Size: 25
+Browsing URL #3 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer.html
+Current URL List Size: 25
+Browsing URL #4 &amp; Extracted:10 URLS from :https://www.asis.gov.au/About-Us/Overview.html
+Current URL List Size: 35
+Browsing URL #5 &amp; Extracted:3 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Technologist/Overview.html
+Current URL List Size: 38
+Browsing URL #6 &amp; Extracted:5 URLS from :https://www.asis.gov.au/Careers/Overview.html
+Current URL List Size: 43
+Browsing URL #7 &amp; Extracted:3 URLS from :https://www.asis.gov.au/Governance/Overview.html
+Current URL List Size: 46
+Browsing URL #8 &amp; Extracted:1 URLS from :https://www.asis.gov.au/About-Us/Speech.html
+Current URL List Size: 47
+Browsing URL #9 &amp; Extracted:2 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies.html
+Current URL List Size: 49
+Browsing URL #10 &amp; Extracted:6 URLS from :https://www.asis.gov.au/About-Us/Mission-and-Values.html
+Current URL List Size: 55
+Browsing URL #11 &amp; Extracted:1 URLS from :https://www.asis.gov.au/About-Us/History.html
+Current URL List Size: 56
+Browsing URL #12 &amp; Extracted:1 URLS from :https://www.asis.gov.au/About-Us/Contact-us.html
+Current URL List Size: 57
+Browsing URL #13 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Governance/From-the-Minister.html
+Current URL List Size: 58
+Browsing URL #14 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Governance/Public-Interest-Disclosures.html
+Current URL List Size: 59
+Browsing URL #15 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Governance/Legislation-and-Privacy.html
+Current URL List Size: 60
+Browsing URL #16 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Governance/Accountability.html
+Current URL List Size: 61
+Browsing URL #17 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Graduate-Program/Overview.html
+Current URL List Size: 62
+Browsing URL #18 &amp; Extracted:2 URLS from :https://www.asis.gov.au/Careers/Selection-Process.html
+Current URL List Size: 64
+Browsing URL #19 &amp; Extracted:3 URLS from :https://www.asis.gov.au/Disclaimer.html
+Current URL List Size: 67
+Browsing URL #20 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Privacy.html
+Current URL List Size: 68
+Browsing URL #21 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Privacy-rules.html
+Current URL List Size: 69
+Browsing URL #22 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Copyright.html
+Current URL List Size: 70
+Browsing URL #23 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Sitemap.html
+Current URL List Size: 71
+Browsing URL #24 &amp; Extracted:5 URLS from :https://www.asis.gov.au/Links.html
+Current URL List Size: 76
+Browsing URL #25 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Application/Account/MyApplications
+Current URL List Size: 77
+Browsing URL #26 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer.html#content
+Current URL List Size: 78
+Browsing URL #27 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Overview.html
+Current URL List Size: 78
+Browsing URL #28 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Expectations.html
+Current URL List Size: 79
+Browsing URL #29 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Current-Vacancies.html
+Current URL List Size: 80
+Browsing URL #30 &amp; Extracted:2 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Selection-Process.html
+Current URL List Size: 82
+Browsing URL #31 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/FAQ.html
+Current URL List Size: 83
+Browsing URL #32 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Profile.html
+Current URL List Size: 84
+Browsing URL #33 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Senior-Executive/Overview.html
+Current URL List Size: 85
+Browsing URL #34 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Conditions.html
+Current URL List Size: 86
+Browsing URL #35 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Life-in-Canberra.html
+Current URL List Size: 87
+Browsing URL #36 &amp; Extracted:1 URLS from :https://www.asis.gov.au/About-Us/Overview.html#content
+Current URL List Size: 88
+Browsing URL #37 &amp; Extracted:0 URLS from :https://www.asis.gov.au/About-Us/Message-from-DG.html
+Current URL List Size: 88
+Browsing URL #38 &amp; Extracted:1 URLS from :https://www.asis.gov.au/About-Us/FAQ/General-FAQ.html
+Current URL List Size: 89
+Browsing URL #39 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Technologist/Overview.html#content
+Current URL List Size: 90
+Browsing URL #40 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Technologist/Expectations.html
+Current URL List Size: 90
+Browsing URL #41 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Technologist/Current-Vacancies.html
+Current URL List Size: 91
+Browsing URL #42 &amp; Extracted:5 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Technologist/Selection-Process.html
+Current URL List Size: 96
+Browsing URL #43 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Technologist/Profile.html
+Current URL List Size: 97
+Browsing URL #44 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Overview.html#content
+Current URL List Size: 98
+Browsing URL #45 &amp; Extracted:0 URLS from :https://www.asis.gov.au/careers-widget/details-content.htm
+Current URL List Size: 98
+Browsing URL #46 &amp; Extracted:0 URLS from :https://www.asis.gov.au/careers-widget/details-video.htm
+Current URL List Size: 98
+Browsing URL #47 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Governance/Overview.html#content
+Current URL List Size: 98
+Browsing URL #48 &amp; Extracted:0 URLS from :https://www.asis.gov.au/About-Us/Speech.html#content
+Current URL List Size: 98
+Browsing URL #49 &amp; Extracted:0 URLS from :https://www.asis.gov.au/media/Images/ASIS-at-60-speech.pdf
+Current URL List Size: 98
+Browsing URL #50 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies.html#content
+Current URL List Size: 98
+Browsing URL #51 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Technologist.html
+Current URL List Size: 98
+Browsing URL #52 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Graduate-Program.html
+Current URL List Size: 99
+Browsing URL #53 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Graduate-Program/Current-Vacancies.html
+Current URL List Size: 100
+Browsing URL #54 &amp; Extracted:3 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Senior-Executive.html
+Current URL List Size: 103
+Browsing URL #55 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Senior-Executive/Current-Vacancies.html
+Current URL List Size: 104
+Browsing URL #56 &amp; Extracted:3 URLS from :https://www.asis.gov.au/About-Us/Mission-and-Values.html#content
+Current URL List Size: 107
+Browsing URL #57 &amp; Extracted:0 URLS from :https://www.asis.gov.au/About-Us/History.html#content
+Current URL List Size: 107
+Browsing URL #58 &amp; Extracted:0 URLS from :https://www.asis.gov.au/About-Us/Contact-us.html#content
+Current URL List Size: 107
+Browsing URL #59 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Governance/From-the-Minister.html#content
+Current URL List Size: 107
+Browsing URL #60 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Governance/Public-Interest-Disclosures.html#content
+Current URL List Size: 107
+Browsing URL #61 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Governance/Legislation-and-Privacy.html#content
+Current URL List Size: 107
+Browsing URL #62 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Governance/Accountability.html#content
+Current URL List Size: 107
+Browsing URL #63 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Graduate-Program/Overview.html#content
+Current URL List Size: 107
+Browsing URL #64 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Graduate-Program/Expectations.html
+Current URL List Size: 107
+Browsing URL #65 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Selection-Process.html#content
+Current URL List Size: 108
+Browsing URL #66 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Job-Vacancies.html
+Current URL List Size: 108
+Browsing URL #67 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Graduate-Program.html
+Current URL List Size: 109
+Browsing URL #68 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Disclaimer.html#content
+Current URL List Size: 110
+Browsing URL #69 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Privacy.html#content
+Current URL List Size: 110
+Browsing URL #70 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Privacy-rules.html#content
+Current URL List Size: 110
+Browsing URL #71 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Copyright.html#content
+Current URL List Size: 110
+Browsing URL #72 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Sitemap.html#content
+Current URL List Size: 110
+Browsing URL #73 &amp; Extracted:0 URLS from :https://www.asis.gov.au/About-Us/FAQ/ASIS-Officer-FAQ.html
+Current URL List Size: 110
+Browsing URL #74 &amp; Extracted:1 URLS from :https://www.asis.gov.au/About-Us/FAQ/Intelligence-Officer-FAQ.html
+Current URL List Size: 111
+Browsing URL #75 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Senior-Executive/Expectations.html
+Current URL List Size: 112
+Browsing URL #76 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Senior-Executive/Selection-Process.html
+Current URL List Size: 113
+Browsing URL #77 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Links.html#content
+Current URL List Size: 114
+Browsing URL #78 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Application/Account/Login?returnurl=%2FApplication%2FAccount%2FMyApplications#content
+Current URL List Size: 114
+Browsing URL #79 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Overview.html#content
+Current URL List Size: 114
+Browsing URL #80 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Expectations.html#content
+Current URL List Size: 114
+Browsing URL #81 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Current-Vacancies.html#content
+Current URL List Size: 114
+Browsing URL #82 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Application/Step/Start?jobid=c2027892-4aa3-4fa7-8522-b7f5d66c6f1f
+Current URL List Size: 114
+Browsing URL #83 &amp; Extracted:1 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Selection-Process.html#content
+Current URL List Size: 115
+Browsing URL #84 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/FAQ.html#content
+Current URL List Size: 115
+Browsing URL #85 &amp; Extracted:0 URLS from :https://www.asis.gov.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Profile.html#content
+</system-out>
+    <system-err>Starting ChromeDriver 2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf) on port 4088
+Only local connections are allowed.
+log4j:WARN No appenders could be found for logger (org.apache.http.impl.conn.tsccm.ThreadSafeClientConnManager).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+</system-err>
+  </testcase>
+</testsuite>

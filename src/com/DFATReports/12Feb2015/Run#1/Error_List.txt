@@ -1,0 +1,114 @@
+File Created on 12Feb2015
+
+Total URLs Crawled: 144
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies.aspx contains Lorem Ipsum
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Generic-Job/Overview.aspx contains Lorem Ipsum
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies.aspx#content contains Lorem Ipsum
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Current-Vacancies.aspx contains Lorem Ipsum
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Current-Vacancies.aspx contains Lorem Ipsum
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Generic-Job/Overview.aspx#content contains Lorem Ipsum
+http://003.sitecore.dfat.uat.visualjazz.com.au/media/Files/test.ashx contains Lorem Ipsum
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Current-Vacancies.aspx#content contains Lorem Ipsum
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Current-Vacancies.aspx#content contains Lorem Ipsum
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist/Overview.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/About-Us/Speech.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/About-Us/Contact-us.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Graduate-Program/Overview.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Sitemap.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Overview.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer-Demo/Current-Vacancies.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Generic-Job/Overview.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/Overview.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Overview.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Expectations.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Current-Vacancies.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Selection-Process.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/FAQ.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Profile.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Overview.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/About-Us/Message-from-DG.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/About-Us/FAQ/General-FAQ.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist/Overview.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist/Expectations.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist/Current-Vacancies.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist/Selection-Process.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist/Profile.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/careers-widget/details-content.htm contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/About-Us/Speech.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Current-Vacancies.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer-Demo.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Graduate-Program.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/About-Us/Contact-us.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Graduate-Program/Overview.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Graduate-Program/Current-Vacancies.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Graduate-Program/Expectations.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Sitemap.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/Expectations.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/Current-Vacancies.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/Selection-Process.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/FAQ.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/Profile.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Operations.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Corporate.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Expectations.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Selection-Process.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/FAQ.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Profile.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Overview.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Operations.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Corporate.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Expectations.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Current-Vacancies.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Selection-Process.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/FAQ.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Profile.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Generic-Job/Overview.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/media/Files/test.ashx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/Overview.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Expectations.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Selection-Process.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/FAQ.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Intelligence-Officer/Profile.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Overview.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/About-Us/Message-from-DG.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/About-Us/FAQ/General-FAQ.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist/Expectations.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist/Selection-Process.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Technologist/Profile.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/sitemap.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Current-Vacancies.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Graduate-Program/Expectations.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/Expectations.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/Selection-Process.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/FAQ.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Demo-Job/Profile.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Operations.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Job-Selector.aspx contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Corporate.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Expectations.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Selection-Process.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/FAQ.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer/Profile.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Overview.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Operations.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Corporate.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Expectations.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Current-Vacancies.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Selection-Process.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/FAQ.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/Project-Manager-Demo/Profile.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/sitemap.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Job-Selector.aspx#content contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/media/Images/ASIS-at-60-speech.ashx?la=en Has a 404/Error
+http://003.sitecore.dfat.uat.visualjazz.com.au/404.aspx#content Has a 404/Error
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer-Demo/Current-Vacancies.aspx Has a No Title or contains DFAT
+http://003.sitecore.dfat.uat.visualjazz.com.au/Careers/Roles-and-Vacancies/DFAT-Officer-Demo.aspx Has a No Title or contains DFAT
+
+===== Run Completed=====

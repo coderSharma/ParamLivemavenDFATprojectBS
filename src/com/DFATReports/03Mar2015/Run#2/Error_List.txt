@@ -1,0 +1,9 @@
+File Created on 03Mar2015
+
+Total URLs Crawled: 1
+No Lorem Ipsum found on the site
+No DFAT found on the site
+No "page not found" errors on the site
+No blank page titles on the site
+
+===== Run Completed=====

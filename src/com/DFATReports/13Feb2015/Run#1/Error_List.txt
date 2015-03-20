@@ -1,0 +1,84 @@
+File Created on 13Feb2015
+
+Total URLs Crawled: 131
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer-Demo/Current-Vacancies.html contains Lorem Ipsum
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Current-Vacancies.html contains Lorem Ipsum
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer-Demo.html contains Lorem Ipsum
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer-Demo/Current-Vacancies.html#content contains Lorem Ipsum
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Current-Vacancies.html#content contains Lorem Ipsum
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer-Demo.html#content contains Lorem Ipsum
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist/Overview.html contains DFAT
+http://124.47.154.22/About-Us/Speech.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies.html contains DFAT
+http://124.47.154.22/About-Us/Contact-us.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Graduate-Program/Overview.html contains DFAT
+http://124.47.154.22/Sitemap.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer-Demo/Current-Vacancies.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Generic-Job/Overview.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Overview.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Expectations.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Current-Vacancies.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Selection-Process.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/FAQ.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Profile.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Overview.html contains DFAT
+http://124.47.154.22/About-Us/Message-from-DG.html contains DFAT
+http://124.47.154.22/About-Us/FAQ/General-FAQ.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist/Overview.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist/Current-Vacancies.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist/Selection-Process.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist/Profile.html contains DFAT
+http://124.47.154.22/careers-widget/details-content.htm contains DFAT
+http://124.47.154.22/About-Us/Speech.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer-Demo.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Graduate-Program.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer.html contains DFAT
+http://124.47.154.22/About-Us/Contact-us.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Graduate-Program/Overview.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Graduate-Program/Current-Vacancies.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Graduate-Program/Expectations.html contains DFAT
+http://124.47.154.22/Sitemap.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Operations.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Corporate.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Expectations.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Current-Vacancies.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Selection-Process.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/FAQ.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Profile.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer-Demo/Current-Vacancies.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Generic-Job/Overview.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Overview.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Expectations.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Current-Vacancies.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Selection-Process.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/FAQ.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Intelligence-Officer/Profile.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Overview.html#content contains DFAT
+http://124.47.154.22/About-Us/Message-from-DG.html#content contains DFAT
+http://124.47.154.22/About-Us/FAQ/General-FAQ.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist/Current-Vacancies.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist/Selection-Process.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist/Profile.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer-Demo.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Technologist.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Graduate-Program.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Graduate-Program/Current-Vacancies.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/Graduate-Program/Expectations.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Operations.html#content contains DFAT
+http://124.47.154.22/Careers/Job-Selector.html contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Corporate.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Expectations.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Current-Vacancies.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Selection-Process.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/FAQ.html#content contains DFAT
+http://124.47.154.22/Careers/Roles-and-Vacancies/DFAT-Officer/Profile.html#content contains DFAT
+http://124.47.154.22/Careers/Job-Selector.html#content contains DFAT
+No "page not found" errors on the site
+No blank page titles on the site
+
+===== Run Completed=====
